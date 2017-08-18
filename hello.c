@@ -15,6 +15,7 @@
 
 int main(int argc, char **argv)
 {
+    printf ("Version:0.02\n");
     printf ("Version:0.01\n");
     printf ("hello\n");
     return 0;
